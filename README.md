@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @KevinJayke
-- 👀 I’m interested in UX/UI
-- 🌱 I’m currently learning reactJS
+- ❤️ I love front!
+- 🌱 I’m currently learning React Native
