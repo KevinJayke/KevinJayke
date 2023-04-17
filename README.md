@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @KevinJayke
 - ❤️ I love front!
-- 🌱 I’m currently learning React Native
+- 🌱 I’m currently making a virtual buisness card
